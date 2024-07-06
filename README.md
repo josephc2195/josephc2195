@@ -1,5 +1,6 @@
 ### Hello there 👋
 My name is Joseph Chica, a UNC Charlotte alum starting my career in development
+
 Some quick facts about me:
 
 - 💬 Ask me about my favorite sport teams! Eagles, Lakers, Duke, Chelsea are my top teams.
