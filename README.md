@@ -1,5 +1,5 @@
 ### Hello there 👋
-My name is Joseph Chica, a UNC Charlotte alum starting my career in development
+My name is Joseph Chica, a UNC Charlotte alum in the prime of my development career
 
 Some quick facts about me:
 
